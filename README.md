@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-fetch.
+
 # think-fetch
 [![npm](https://img.shields.io/npm/v/think-fetch.svg)](https://www.npmjs.com/package/think-fetch)
 [![Build Status](https://travis-ci.org/thinkjs/think-fetch.svg?branch=master)](https://travis-ci.org/thinkjs/think-fetch)
