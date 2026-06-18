@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "index.d.ts",
   "dependencies": {
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "ava": "^0.18.2",
